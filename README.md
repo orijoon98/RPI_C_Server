@@ -19,7 +19,7 @@
 
 ## 웹서버 가동
 
-![스크린샷 2021-10-07 오후 3.06.20.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e5f456f0-d3af-4a3d-ad50-67c77b21ab60/스크린샷_2021-10-07_오후_3.06.20.png)
+![스크린샷 2021-10-07 오후 3 06 20](https://user-images.githubusercontent.com/74812188/136333876-b75fec83-0c88-4c52-a75a-57dd8e44738b.png)
 
 C언어 HTTP 서버 페이지에서 작성한 코드를 백그라운드로 실행시켜준다.
 
@@ -46,7 +46,7 @@ sh 파일을 만들고 crontab 을 이용해 매주 토요일 22시마다 업데
 cat /home/pi/Lotto/lotto.json > /home/pi/C-Server/data.html
 ```
 
-![스크린샷 2021-10-07 오후 3.15.22.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5a0bc194-0274-4f6c-9b0d-35ad1558e3e9/스크린샷_2021-10-07_오후_3.15.22.png)
+![스크린샷 2021-10-07 오후 3 15 22](https://user-images.githubusercontent.com/74812188/136333904-ec0a37a0-31e0-4cd3-bb4f-ed9f70c48ef2.png)
 
 ## Vue 프로젝트 옮기기
 
