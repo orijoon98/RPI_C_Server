@@ -54,7 +54,7 @@ cat /home/pi/Lotto/lotto.json > /home/pi/C-Server/data.html
 
 ## 결과
 
-[](https://hyeokjoon.com)
+[https://hyeokjoon.com](https://hyeokjoon.com)
 
 정상적으로 배포가 된 모습이다.
 
